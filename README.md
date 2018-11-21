@@ -1,2 +1,2 @@
-# HelloWorld & Hello People
+HelloWorld!
 This is my first Repository
